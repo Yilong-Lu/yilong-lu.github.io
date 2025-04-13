@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : Yi-Long Lu"
+title                    : Yi-Long Lu
 title_separator          : "-"
 name                     : &name "Yi-Long Lu"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #
   location         : "Beijing, China"
-  employer         : "BIGAI"
+  employer         : "Beijing Institute for General Artificial Intelligence (BIGAI)"
   uri              : # URL
   email            : "luyilong@pku.edu.cn" 
 
